@@ -31,3 +31,8 @@ This project uses real-time hand landmark detection to measure the distance betw
 Example install command:
 ```bash
 pip install opencv-python mediapipe numpy pycaw comtypes
+
+git clone https://github.com/sakshik1712/Gesture-Volume-Control.git
+cd Gesture-Volume-Control
+pip install -r requirements.txt
+python gesture_volume_control.py
